@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Md. Ashraful Momen
-#### Computer Engineer | Full Stack Developer | WhiteHat
-![Computer Engineer | Full Stack Developer | WhiteHat](https://media.licdn.com/dms/image/D4D16AQElxxwL7f7saQ/profile-displaybackgroundimage-shrink_350_1400/0/1698897953411?e=1704326400&v=beta&t=-S2_jh2tqGaExZ7AYA7NtmwV-ez7W0jYOF2_jw_iSwA)
+(https://media.licdn.com/dms/image/D4D16AQElxxwL7f7saQ/profile-displaybackgroundimage-shrink_350_1400/0/1698897953411?e=1704326400&v=beta&t=-S2_jh2tqGaExZ7AYA7NtmwV-ez7W0jYOF2_jw_iSwA)
+#Hi there 👋, I'm Md. Ashraful Momen
+### Computer Engineer | Full Stack Developer | WhiteHat
+![Computer Engineer | Full Stack Developer | WhiteHat]
 
 A highly skilled Full Stack Engineer with a solid foundation in HTML, CSS, JavaScript, Bootstrap 5, React, and Python Django. Proven expertise in developing dynamic web applications and proficiency in utilizing Docker, Git, AWS(Still Learning) and Firebase. Possesses a BSc in Computer Science and Engineering, With additional knowledge in PHP with Laravel, Ethical Hacking, and extensive project experience in restaurant apps, e-commerce platforms, blogs, and burger builders. Well-versed in Data Structures and Algorithms.
 
