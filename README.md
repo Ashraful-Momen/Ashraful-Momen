@@ -15,7 +15,7 @@ Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON/ Django / FIREBASE / MY
 
 - 🔭 I’m currently working on Coding 
 - 🌱 I’m currently learning AWS
-- 📄 Know about my experiences [https://shorturl.at/akxOS](https://shorturl.at/akxOS)
+- 📄 Know about my experiences [https://rb.gy/r49cx](https://rb.gy/r49cx)
 - 📫 How to reach me: amshuvo64@gmail.com 
 
 
