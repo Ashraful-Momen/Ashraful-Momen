@@ -1,4 +1,4 @@
-![Computer Engineer | Full Stack Developer | WhiteHat]
+[Computer Engineer | Full Stack Developer | WhiteHat]
 
 ### Hi there 👋, I'm Md. Ashraful Momen
 ### Computer Engineer | Full Stack Developer | WhiteHat
