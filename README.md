@@ -11,7 +11,7 @@ A highly skilled Full Stack Engineer with a solid foundation in HTML, CSS, JavaS
 
 
 
-Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON/ Django / FIREBASE / MYSQL / LINUX
+Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON / Django / PHP / LARAVEL / FIREBASE / MYSQL / LINUX
 
 - 🔭 I’m currently working on Coding 
 - 🌱 I’m currently learning AWS
