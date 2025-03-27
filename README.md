@@ -9,7 +9,7 @@ Full Stack Engineer with a solid foundation in HTML, CSS, JavaScript, Bootstrap 
 
 
 
-Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON / Django / PHP / LARAVEL / FIREBASE / MYSQL / LINUX
+Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON / Django / PHP / LARAVEL / FIREBASE / MYSQL / KALI LINUX / NGINX / DOCKER / DOCKER SWARM / RADIS / RABBIMQ / METASPLOIT / NETCAT / NMAP / ZENMAP / .....
 
 - 🔭 I’m currently working on Coding 
 - 🌱 I’m currently learning AWS
