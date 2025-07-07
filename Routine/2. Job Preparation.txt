@@ -56,7 +56,7 @@
 #Mailing and Notification 
 #Event and Listenr and BroadCast
 #jobs and Queue (Horizen)
-#Facade , Dependency Injection , Service container and Service Provider 
+#Facade , Service container and Service Provider , Dependency Injection , Singleton, Factory, Repository , Strategy, Observer. 
 #PHP Unit Test . (Pest)
 #Ajax : Crud
 #Api : crud with search, filter and pagination . 
