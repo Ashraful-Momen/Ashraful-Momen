@@ -15,9 +15,9 @@ Senior Full Stack Engineer with **3+ years of expertise** architecting and deliv
 
 ## Technical Expertise
 
-**Programming Languages:** PHP, Python, JavaScript, C++, C#, Java (Advanced OOP)
+**Programming Languages:** PHP, Python, JavaScript, C, C++, C#, Java With SOLID Principle and Design Pattern
 
-**Backend Technologies:** Laravel (Expert), Django, Node.js, RESTful APIs, Microservices Architecture
+**Backend Technologies:** Laravel (Expert), Django, RESTful APIs, Microservices Architecture
 
 **Frontend Technologies:** React.js (Expert), HTML5, CSS3, jQuery, Bootstrap, Redux
 
@@ -156,7 +156,6 @@ Senior Full Stack Engineer with **3+ years of expertise** architecting and deliv
 ---
 
 ## References
-
 **Arif Mainuddin** - Managing Director, Decodes Lab Limited | info@decodeslab.com  
 **Pritom Kaysar** - Managing Director, ClickDigim | info@clickdigim.com
 
