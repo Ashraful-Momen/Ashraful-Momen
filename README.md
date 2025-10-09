@@ -1,5 +1,3 @@
-github readme current: 
------------------------
 # 👋 Hi, I'm Md. Ashraful Momen
 
 **Full Stack & DevOps Engineer** | Building scalable, secure, and cloud-native applications  
