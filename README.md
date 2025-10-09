@@ -1,29 +1,114 @@
-### Hi there 👋, I'm Md. Ashraful Momen
-### Computer Engineer | Full Stack Developer | DevOps | WhiteHat Hacker 
+github readme current: 
+-----------------------
+# 👋 Hi, I'm Md. Ashraful Momen
 
+**Full Stack & DevOps Engineer** | Building scalable, secure, and cloud-native applications  
+📍 Dhaka, Bangladesh | 🌍 Open to **international & remote opportunities**  
+📧 amshuvo64@gmail.com | 📞 +880-1859-385787  
 
-Full Stack Engineer with a solid foundation in HTML, CSS, JavaScript, Bootstrap 5, React, and Python Django. Proven expertise in developing dynamic web applications and proficiency in utilizing Git, Docker, Kubernetes, Terraform, Ansible, Grafana, Prometheus, Loki, CI/CD, ELK Stack, and AWS. Possesses a BSc in Computer Science and Engineering, With additional knowledge in C, C++, Java, PHP with Laravel, Ethical Hacking, and extensive project experience in restaurant apps, e-commerce platforms, blogs, and burger builders. Well-versed in Data Structures and Algorithms.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashraful-momen-306771159)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashraful-Momen)
+[![Portfolio](https://img.shields.io/badge/Website-Instasure-2ea44f?style=for-the-badge)](https://instasure.xyz)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
+## 💼 Professional Summary
 
+Full Stack & DevOps Engineer with **3+ years** of experience designing and delivering **enterprise-scale software**, **distributed systems**, and **cloud-native architectures**.  
+- Led development of platforms serving **40M+ users** (Robi Ltd) and **100+ hospitals** in healthcare ecosystems.  
+- Expertise in **Laravel**, **Django**, **React**, **AWS**, **Docker**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**.  
+- Proven success in **re-architecting monoliths into microservices**, optimizing databases (indexing, sharding, replication), and implementing **PCI-compliant** payment systems.  
+- Passionate about **system security**, **ethical hacking** (Kali Linux, penetration testing), and **clean, maintainable code** (SOLID, design patterns, TDD).
 
-Skills: HTML5 / CSS3 / BOOTSTRAP5  / REACT / JS / PYTHON / Django / PHP / LARAVEL / FIREBASE / MYSQL / KALI LINUX / NGINX / DOCKER / DOCKER SWARM / RADIS / RABBIMQ / METASPLOIT / NETCAT / NMAP / ZENMAP / .....
+---
 
-- 🔭 I’m currently working on Coding 
-- 🌱 I’m currently learning AWS
-- 📄 Know about my experiences [https://rb.gy/r49cx](https://rb.gy/r49cx)
-- 📫 How to reach me: amshuvo64@gmail.com 
+## 🛠️ Tech Stack
 
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ashraful-Momen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ashraful-momen-306771159//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shuvo.ashrafulmomen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shorturl.at/kDJOY)  
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?logo=django&logoColor=white)
 
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
+### Databases & Messaging
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
+### Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C9D?logo=kalilinux&logoColor=white)
+🔒 Ethical Hacking | Penetration Testing | PCI Compliance
 
+---
 
+## 🚀 Featured Projects
 
+### [Enterprise Insurance Platform](https://instasure.xyz)
+- Serves **40M+ users** via Robi API integration  
+- Built with Laravel, React, MySQL, and microservices architecture  
+- Real-time eligibility checks, automated invoicing, and PCI-compliant payments
 
+### [Healthcare Network](https://instasure.xyz/card-insurance)
+- Connects **100+ hospitals** with dynamic discount processing  
+- Secure EHR, appointment booking, and prescription management
+
+### [Telemedicine Platform](https://instasure.xyz/tele_medicine_pkg_list)
+- Real-time communication via WebSockets  
+- End-to-end telehealth solution with secure data handling
+
+### [Microservices Demo](http://36.255.69.72)
+- Docker, Kubernetes, NGINX, RabbitMQ, Redis, S3  
+- Demonstrates cloud-native resilience and scalability
+
+### Other Public Repos
+- [Laravel Chat App (WebSocket + Pusher)](https://github.com/Ashraful-Momen/Laravel/Chatting-App)  
+- [Burger Builder (React + Firebase)](https://ashraful-momen.github.io/Burger-Builder)  
+- [Django E-Commerce](https://github.com/Ashraful-Momen/Web-Development-With-React-And-Django)  
+- [Laravel Blog CMS](https://github.com/Ashraful-Momen/Laravel/Blog)  
+- [Restaurant Inventory App (React + Django)](https://github.com/Ashraful-Momen/React-And-Django)
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc in Computer Science & Engineering** – CGPA: 3.88/4.00 (2021)  
+- **Certifications**:  
+  - Laravel with PHP (BITM – Advanced)  
+  - Django & Full Stack React (Bohubrihi, Udemy)  
+  - Ethical Hacking & Penetration Testing (Lead Training Center)  
+  - Docker for DevOps (IT Expert DB)  
+  - System Design & Architecture (Innovative Skill BD)  
+- **Currently Pursuing**: Advanced DevOps (Ostad), Advanced DSA (CPS Academy)
+
+---
+
+## 🔒 Security & Leadership
+
+- Conducted penetration tests using **Kali Linux**  
+- Published research: *“Exploit Windows Defender with Python Reverse Shell”*  
+- Mentored junior developers, led code reviews, and championed **TDD**, **documentation**, and **secure coding practices**
+
+---
+
+💬 **Let’s connect!** I'm always open to collaboration, new challenges, and opportunities to build impactful software.
