@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md. Ashraful Momen
+# Hi, I'm Md. Ashraful Momen
 
 **Full Stack & DevOps Engineer**  
 Building secure, scalable, and cloud-native applications for 40M+ users  
