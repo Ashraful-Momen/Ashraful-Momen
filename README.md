@@ -9,6 +9,12 @@ Building secure, scalable, and cloud-native applications for 40M+ users
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashraful-Momen)
 [![Portfolio](https://img.shields.io/badge/Website-Instasure-2ea44f?style=for-the-badge)](https://instasure.xyz)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://ashraful-momen.github.io/protfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashraful-momen-306771159)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashraful-Momen)
+[![Website](https://img.shields.io/badge/Website-Instasure-2ea44f?style=for-the-badge)](https://instasure.xyz)
+
+
 ---
 
 ## 💼 Professional Summary
