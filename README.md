@@ -1,7 +1,7 @@
 # Hi, I'm Md. Ashraful Momen
 
-**Full Stack & DevOps Engineer**  
-Building secure, scalable, and cloud-native applications for 40M+ users  
+**Full Stack Engineer**  
+Building secure, scalable, and cloud-native applications for 4M+ users  
 📍 Dhaka, Bangladesh | 🌍 Open to **international & remote opportunities** | ✅ Available immediately  
 📧 amshuvo64@gmail.com | 📞 +880-1859-385787  
 
@@ -16,8 +16,8 @@ Building secure, scalable, and cloud-native applications for 40M+ users
 
 ## 💼 Professional Summary
 
-Full Stack & DevOps Engineer with **3+ years** of experience delivering **enterprise-scale software**, **distributed systems**, and **cloud-native architectures**.  
-- Led development of platforms serving **40M+ users** (via Robi Ltd) and **100+ hospitals** in Bangladesh’s healthcare sector.  
+Full Stack Engineer with **4+ years** of experience delivering **enterprise-scale software**, **distributed systems**, and **cloud-native architectures**.  
+- Led development of platforms serving **4M+ users** (via Robi Ltd) and **100+ hospitals** in Bangladesh’s healthcare sector.  
 - Expert in **Laravel**, **Django**, **React**, **AWS**, **Docker**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**.  
 - Strong foundation in **SOLID principles**, **design patterns** (Factory, Strategy, Observer, Repository, etc.), and **secure system design**.  
 - Proficient in multiple languages: **PHP**, **Python**, **JavaScript**, **C**, **C#**, **C++**, and **Java**.  
@@ -70,7 +70,7 @@ Full Stack & DevOps Engineer with **3+ years** of experience delivering **enterp
 ## 🚀 Featured Projects
 
 ### [Enterprise Insurance Platform](https://instasure.xyz)
-- Serves **40M+ users** via Robi API integration  
+- Serves **4M+ users** via Robi API integration  
 - Built with Laravel, React, MySQL, microservices  
 - Real-time eligibility, invoicing, and PCI-compliant payments
 
