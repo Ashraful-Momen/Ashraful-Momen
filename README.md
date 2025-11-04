@@ -115,8 +115,9 @@ Full Stack Engineer with **4+ years** of experience delivering **enterprise-scal
   - Django & Full Stack React (Bohubrihi, Udemy)  
   - Ethical Hacking & Penetration Testing (Lead Training Center)  
   - Docker for DevOps (IT Expert DB)  
-  - System Design & Architecture (Innovative Skill BD)  
-- **Currently Pursuing**: Advanced DevOps (Ostad), Advanced DSA (CPS Academy)
+  - System Design & Architecture (Innovative Skill BD)
+  - Advance DevOps (Ostad Ltd)  
+- **Currently Pursuing**: Advanced DSA (CPS Academy)
 
 ---
 
