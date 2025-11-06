@@ -1,36 +1,111 @@
-# Current routine september 25: 
--------------------------------
-
 #Daily Route: 
 --------------
 
 # DSA : 1hr. 
 # DevOps : 1hr. 
 
-# Linux : 10min. office. 
-# Mysql : 20min . office . 
+# Linux : 10min. . 
+# Mysql : 10min .  .
+# PenTest : 20min.
 
-# js & react  => 1hr
+# Git  => 10min
+# Docker => 10min
 # php & Laravel => 1hr
 
 # project => google meet + uber
 # update CV .
 
 
+===========================================================================================================
+#Done task : 
+---------------
+#Thunk with firebase. 
+----------------------------
+#js : promise, fetch , axios [Done]. 
+#js : BOM,DOM 
+#js : Event 
+#js : Redux , thunk 
+#Fire base used for realtime order, auth : 
+                => project : burger Builder : https://ashraful-momen.github.io/auth
+----------------------------
 
-#Revision : only for the Eid . 
-------------------------------
+==============================================================================================
+#PHP : 
+----------
+#variable , if/else , switch case , Function 
+#Array : 1d, 2d 
+#String : building function . 
+#Session and Cookies 
+#File and Folder: CRUD
+#OOP : Class , Object , Inheritance , Polimorphism , encapsulation , interface, trait , abstraction , constructor, destructor, getter/setter.
+#Global Varible : Request , Get , Post , Session ...
+#Curl
 
-0. Linux : 30min  . [9am - 9.30am].
+#Laravel : 
+-----------
+#Model : one to one , one to many , many to many , generic and polimorphic
+#ORM : N+1 , Query Optimization . 
+#Middleware : Global , Public . 
+#Role and Permission 
+#Caching
+#Task Scheduling
+#Mailing and Notification 
+#Event and Listener and Broad Casting
+#jobs and Queue (Horizen)
+#Facade , Service container and Service Provider , Dependency Injection , Singleton, Factory, Repository , Strategy, Observer. 
+#PHP Unit Test . (Pest)
+#Ajax : Crud
+#Api : crud with search, filter and pagination . 
 
-1. javaScript : 30min [9.30am - 10am]
+#Project : 
+        => https://instasure.xyz
 
-2. Mysql : [10am-11am]
 
-3. react : crud , crud with api , redux , thunk , route , sorting , filter , pagination . [11am-12pm ]
 
-4. google meet clone with react and firebase / laravel . [12pm - 6pm]-[Including salah , Bath]
+# DevOps: 
+-----------
+#Git 
+#GitHub
+#CI_CD : GitAction. 
+#Docker :command, image, container, volume,network(*** overlay), compose , docker swarm, portainer.
+#kubernetes
+#ArgoCD + #SonarQube.
+#Terraform
+#Ansible
+#aws
+#micro-service : vm2.instasure.xyz or http://36.255.69.72/
+---------------------------
 
-5. Polish : CV , Protfolio [7pm-7.30pm]
+---------------------------
+#php: oop, ajax, jquery with php . 
+---------------------------
+#caching
+#event , listener , broadcasting
+#jobs & queue 
+#task scheduling
+#notification
+#orm
+#facade, service container and provider , 
+#project: uber and any Desk. 
+---------------------------------------------------------------------------------------------
+#Mysql : CRUD, indexing , caching , sharding, partitioning, Replication & Fail-over management with Laravel . 
 
-6. Research : [9pm - 10pm] 
+-----------------------------------
+#RabbitMQ : Pub/Sub, Message Broker . 
+----------------------------------
+#Redis : caching, event & Driven & pub/sub. 
+----------------------------------
+#Nginx: Done
+----------------------------------
+#Linux: Kali Linux , Ubuntu , Debian . 
+----------------------------------
+
+
+
+
+
+#project : Clone google meet , Uber , anydesk.  
+
+
+
+
